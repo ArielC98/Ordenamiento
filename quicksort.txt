@@ -1,0 +1,4 @@
+Este es el arreglo sin ordenar: 
+80 -7 4 2 -34 34 8 20 
+Este es el arreglo ordenado: 
+-34 -7 0 0 2 4 8 20 
